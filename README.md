@@ -4,5 +4,5 @@ Binomial Classification using LogisticRegression, based on Winsconsin data from 
 The metrics obtained with the Logistic Regression model were: 
   - F1 of 0.986,
   - Precision of 0.969,
-  - Accuracy of '.982,
+  - Accuracy of 0.982,
   - False-positive: 2 and False-negative: 1 (classification errors).
